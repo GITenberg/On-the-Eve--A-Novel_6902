@@ -1,0 +1,41 @@
+_repo: On-the-Eve--A-Novel_6902
+_version: 0.0.1
+alternative_title: Nakanune. English
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- GITenberg
+title: 'On the Eve: A Novel'
+url: http://www.gutenberg.org/ebooks/6902
